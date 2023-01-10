@@ -34,5 +34,5 @@ Github:
 konnyph
 
 ## Video/Screenshots of functionable application:
-https://drive.google.com/file/d/1OedWz5VJrjkyz0ge4a5U38ep6oiiPGUQ/view
+https://drive.google.com/file/d/1lUIOj8Gz_9GI7pR7wK9JPdJNTGDIlFjN/view
 
